@@ -1,6 +1,6 @@
 #IoT-DatePalm-Irrigation-Mexicali
 <p align="center">
-  <img src="prototipo_principal.jpg" alt="Prototipo IoT para monitoreo de humedad del suelo" width="650">
+  <img src="prototipo_principal.jpg" alt="Prototipo IoT para monitoreo de humedad del suelo" width="350">
 </p>
 # Arquitectura basada en Internet de las Cosas (IoT) para la optimización del agua en el cultivo de palma datilera
 **Repositorio de reproducibilidad de tesis  **
