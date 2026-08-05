@@ -1,4 +1,4 @@
-#IoT-DatePalm-Irrigation-Mexicali
+# IoT-DatePalm-Irrigation-Mexicali
 <p align="center">
   <img src="prototipo_principal.jpg" alt="Prototipo IoT para monitoreo de humedad del suelo" width="150">
 </p>
