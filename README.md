@@ -45,7 +45,7 @@ La arquitectura permite adquirir datos del suelo, transmitirlos de manera inalá
 # Organización del repositorio
 
 ```
-AWS/
+Configuración de la regla en IoT core AWS (SQL, Lambda, Dynamo)/
 │
 ├── Certificados
 ├── AWS IoT Core
@@ -54,22 +54,18 @@ AWS/
 
 Calibration/
 │
-├── Curvas de calibración
 ├── Scripts
 └── Procedimientos
 
 Dataset/
 │
 ├── Datos experimentales
-├── Variables
-└── Diccionario de datos
 
 Documentation/
 │
-├── Diagramas
 ├── Manuales
 ├── Arquitectura
-└── Publicaciones
+
 
 Firmware/
 │
@@ -123,18 +119,6 @@ Durante la validación experimental se obtuvieron:
 
 ---
 
-# Contenido del repositorio
-
-| Carpeta | Contenido |
-|----------|-----------|
-| Firmware | Código fuente del sistema |
-| Calibration | Calibración del sensor Watermark |
-| Dataset | Base de datos experimental |
-| Documentation | Diagramas y documentación técnica |
-| Results | Figuras, tablas y resultados |
-| AWS | Configuración de servicios en la nube |
-
----
 
 # Licencia
 
@@ -153,7 +137,7 @@ Si este trabajo resulta útil para tu investigación, por favor cita:
 # Contacto
 
 Verónica Quintero Rosas
-README científico completo
+
 
 México
 
