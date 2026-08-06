@@ -14,7 +14,7 @@
 
 # Descripción
 
-Este repositorio contiene el firmware, los procedimientos de calibración, el conjunto de datos experimentales, la documentación técnica y los resultados obtenidos durante el desarrollo de la investigación doctoral titulada:
+Este repositorio contiene el firmware, los procedimientos de calibración, el conjunto de datos experimentales, la documentación técnica y los resultados obtenidos durante el desarrollo de la investigación  titulada:
 
 > **Sistema de IoT de riego de precisión para la optimización del agua en la agroindustria datilera del Valle de Mexicali.**
 
