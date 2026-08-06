@@ -1,0 +1,10 @@
+Se recomienda a los usuarios que deseen comprender el funcionamiento del sensor Watermark 200SS 
+comenzar realizando pruebas con un programa básico utilizando Arduino IDE. Aunque el sistema 
+desarrollado en esta investigación fue implementado sobre la plataforma ESP32, el uso de Arduino IDE
+facilita la comprensión del proceso de adquisición de datos, acondicionamiento de la señal y calibración del sensor 
+antes de integrar la arquitectura completa basada en comunicación XBee y servicios de AWS IoT Core.
+
+Recordar que se recomienda migrar el código reajustando la resolución del ADC ($10\text{ bits}$), la lógica de puertos 
+Serie y eliminando las librerías exclusivas de conectividad Wi-Fi/Nube
+
+Ver anexo video_recomendacion
