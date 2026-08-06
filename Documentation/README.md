@@ -7,10 +7,10 @@ La documentación complementa el código fuente, los datos experimentales y los 
 ## Contenido
 
 - Arquitectura del sistema
--  Manual de instalación
--  Configuración de módulos XBee
-- Configuración de AWS IoT Core
-- Reproducibilidad del sistema
+- Manual de configuración-reconocimiento XBEE
+- Manual de configuración red, dirección, transmisión y recepción de XBEE
+- Manual_aws_ de Conexión cliente- bróker MQTT 
+
 
 ## Objetivo
 
