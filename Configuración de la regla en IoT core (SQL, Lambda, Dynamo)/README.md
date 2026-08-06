@@ -25,10 +25,9 @@ Esta carpeta incluye la documentación referente a:
 - Configuración de la función AWS Lambda.
 - Código implementado en la función Lambda.
 - Creación y configuración de la tabla Amazon DynamoDB.
-- Configuración de roles y permisos IAM.
-- Verificación del almacenamiento automático de los datos.
+
+
 
 ---
 
-## Flujo de procesamiento
 
